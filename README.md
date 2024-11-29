@@ -1,16 +1,16 @@
 # jokes_app
 
-A new Flutter project.
+A simple and fun Flutter app that fetches and displays random jokes using the JokeAPI.
 
-## Getting Started
+# Features
+Fetch random jokes with a single tap.
+Modern, responsive UI with Material Design.
+Error handling for failed API requests.
 
-This project is a starting point for a Flutter application.
+# How to Run
+ Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/flutter-jokes-app.git
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# License
+This project is licensed under the MIT License.
